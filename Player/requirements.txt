@@ -1,0 +1,14 @@
+kivy
+yt-dlp
+mutagen
+kivy
+yt-dlp
+mutagen
+pillow
+requests
+pydub
+rich
+python-dotenv
+ffpyplayer
+filetype
+kivymd
